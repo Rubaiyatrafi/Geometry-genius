@@ -1,0 +1,6 @@
+.bonus {
+  box-shadow: 5px 5px 5px 10px rgb(52, 193, 236);
+}
+.bonus:hover {
+  background: rgba(red, green, blue, alpha);
+}
